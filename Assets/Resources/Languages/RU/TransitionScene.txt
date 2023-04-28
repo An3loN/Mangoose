@@ -1,0 +1,4 @@
+level_text Уровень
+passed_text пройден
+best_text Рекорд:
+time_text Время:

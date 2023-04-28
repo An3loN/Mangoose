@@ -1,0 +1,91 @@
+wait 1500
+mahryct playAnim Dig
+wait 1200
+mahryct go 0 wait
+mahryct playAnim Dig
+wait 1000
+mahryct playAnim Sweat
+wait 800
+camera pos 1
+mahryct go 1 wait
+mahryct playAnim Dig
+wait 1000
+mahryct playAnim Sweat
+wait 800
+camera pos 0
+mahryct go 2 wait
+mahryct playAnim Dig
+wait 1000
+map playAnim Grounded
+mahryct playAnim Sweat
+wait 1500
+mahryct emote Question wait
+mahryct playAnim Find
+map playAnim Find
+wait 200
+mouse go 3 wait
+mouse emote Exclamation wait
+wait 200
+mouse emote Gold wait
+mahryct emote Exclamation wait
+wait 200
+mahryct emote Gold wait
+wait 400
+map playAnim Hide
+mahryct go 4
+mouse go 4
+wait 400
+camera showBlack wait
+theme 1
+camera pos 2
+wait 1400
+mouse go 5
+wait 100
+mahryct go 6
+camera hideBlack wait
+wait 1500
+mouse go 7 wait
+wait 300
+mouse go 8 wait
+wait 300
+mouse go 5 wait
+wait 300
+mouse emote Zzz wait
+wait 300
+mahryct emote Zzz wait
+wait 300
+mahryct playAnim Sleep
+wait 200
+mouse playAnim Sleep
+wait 400
+camera showBlack wait
+wait 100
+camera hideBlack wait
+wait 400
+trigger 0
+wait 500
+dragon go 9 wait
+wait 100
+dragon playAnim Catch
+wait 300
+dragon setChild mouse
+wait 100
+dragon go 10
+wait 1500
+camera showBlack wait
+wait 600
+theme 0
+camera hideBlack wait
+mahryct playAnim Idle
+wait 100
+mahryct emote Question wait
+wait 300
+mahryct go 11 wait
+wait 200
+mahryct go 12 wait
+wait 200
+mahryct go 6 wait
+wait 300
+mahryct emote Exclamation wait
+mahryct go 10
+wait 1200

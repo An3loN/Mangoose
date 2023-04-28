@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b424589c04536d345ade1214144347c0, type: 3}
+  m_Name: Rank5SpriteContainer
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -1307229357, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -600139449, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -1606273630, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -1049997965, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: 1139944392, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -686357189, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -1303287929, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -1206448768, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -1372129393, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: -2077148786, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}
+  - {fileID: 383466159, guid: 6ee5dff679428604fa1f902fa53eb0b6, type: 3}

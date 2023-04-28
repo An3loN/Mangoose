@@ -1,0 +1,12 @@
+press_start_text PRESS ENTER
+logo_text MANGOOSE
+continue_button Continue
+new_game_button New Game
+choose_level_button Choose Level
+options_button Options
+quit_button Quit
+level_choose_text Choose Level
+back_button Back
+fullscreen_text FullScreen
+resolution_text Resolution
+sound_volume_text Sound Volume

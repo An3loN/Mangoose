@@ -1,0 +1,12 @@
+press_start_text НАЖМИТЕ ENTER
+logo_text МАНГУСТ
+continue_button Продолжить
+new_game_button Новая игра
+choose_level_button Выбор Уровня
+options_button Настройки
+quit_button Выйти
+level_choose_text Выбор Уровня
+back_button Назад
+fullscreen_text Полноэкранный
+resolution_text Разрешение
+sound_volume_text Громкость

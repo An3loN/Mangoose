@@ -1,0 +1,3 @@
+resume_button Продолжить
+restart_button Рестарт
+exit_button Выход

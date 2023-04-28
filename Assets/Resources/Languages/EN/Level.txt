@@ -1,0 +1,3 @@
+resume_button Resume
+restart_button Restart
+exit_button Main Menu

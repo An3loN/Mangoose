@@ -1,0 +1,30 @@
+mouse playAnim Sleep
+wait 1000
+mahryct go 0 wait
+mahryct emote Exclamation
+wait 500
+mahryct go 1 wait
+mouse playAnim Idle
+mouse emote Exclamation wait
+wait 300
+mouse go 2 wait
+mouse go 3 wait
+mouse go 4 wait
+wait 400
+mahryct emote Question
+mouse emote Question wait
+wait 400
+mahryct go 5
+wait 2000
+mouse go 6 wait
+wait 300
+trigger 0
+wait 100
+mahryct go 7 wait
+wait 500
+mouse go 8
+wait 100
+mahryct go 8
+wait 400
+camera showBlack wait
+wait 1000

@@ -1,0 +1,4 @@
+level_text Level
+passed_text passed
+best_text Best:
+time_text Time:
